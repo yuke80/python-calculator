@@ -1,2 +1,2 @@
 # python-calculator
-Pythonで作った電卓アプリ
+Python tkinterで作った電卓アプリ
